@@ -226,8 +226,8 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     title: 'Luxury Mansion Painting & Finishes',
     category: 'Painting',
     location: 'East Legon, Accra',
-    imageBefore: 'https://images.unsplash.com/photo-1590069261209-f8e9b8642343?auto=format&fit=crop&w=600&q=80', // raw wall
-    imageAfter: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=600&q=80', // luxury painted
+    imageBefore: 'https://imgur.com/0CZ48a0.png',
+    imageAfter: 'https://imgur.com/mum7BCX.png',
     description: 'Complete multi-layered weather-proof exterior protective paint job and high-end textured POP living room ceilings.',
     year: '2026'
   },
@@ -236,8 +236,8 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     title: 'Modern Bespoke Kitchen Fit-Out',
     category: 'Woodworks',
     location: 'Airport Residential, Accra',
-    imageBefore: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80', // empty kitchen
-    imageAfter: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80', // modern luxurious cabinets
+    imageBefore: 'https://i.imgur.com/bIMhWLY.png',
+    imageAfter: 'https://i.imgur.com/0mb1MuT.png',
     description: 'Custom hardwood mahogany floating kitchen cabinets and automated drawer installations with smart organizers.',
     year: '2025'
   },
@@ -279,6 +279,26 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     imageBefore: 'https://images.unsplash.com/photo-1585409605803-36c7328221a2?auto=format&fit=crop&w=600&q=80', // block walls
     imageAfter: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=600&q=80', // beautiful wooden panel studio
     description: 'Custom walnut acoustic baffles, perimeter LED strip light troughs, and elegant plasterboard styling for a commercial recording studio.',
+    year: '2026'
+  },
+  {
+    id: 'project-7',
+    title: 'Borehole Works & Filtration System',
+    category: 'Plumbing',
+    location: 'Abokobi, Accra',
+    imageBefore: 'https://i.imgur.com/0bDgcfA.jpeg',
+    imageAfter: 'https://i.imgur.com/0YuWoYL.jpeg',
+    description: 'Precision sub-surface geological survey, borehole drilling, clean water filtration array, and high-altitude reservoir integration.',
+    year: '2026'
+  },
+  {
+    id: 'project-8',
+    title: 'High-Precision Porcelain Tiling',
+    category: 'Tiling',
+    location: 'Dzorwulu, Accra',
+    imageBefore: 'https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=600&q=80',
+    imageAfter: 'https://images.unsplash.com/photo-1502005229762-fc1b2b812ca5?auto=format&fit=crop&w=600&q=80',
+    description: 'Laser-aligned installation of large-format Italian porcelain tiles, waterproofing screed, and premium epoxy grouting for kitchen and bathroom wet areas.',
     year: '2026'
   }
 ];

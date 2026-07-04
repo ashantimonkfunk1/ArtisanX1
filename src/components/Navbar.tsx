@@ -103,10 +103,10 @@ export default function Navbar({
             {/* Quick Urgent Request Widget */}
             <a
               href="tel:0591222901"
-              className="flex items-center space-x-1.5 px-3 py-1.5 bg-red-600/20 border border-red-500/30 text-red-200 hover:bg-red-600 hover:text-white transition-all text-xs font-semibold rounded-lg"
+              className="flex items-center space-x-1.5 px-3 py-1.5 bg-lime-500/15 border border-lime-500/30 text-lime-300 hover:bg-lime-500 hover:text-black transition-all text-xs font-semibold rounded-lg"
               title="24/7 Emergency Dispatch"
             >
-              <Phone className="w-3.5 h-3.5 text-red-400 animate-pulse" />
+              <Phone className="w-3.5 h-3.5 text-lime-400 animate-pulse" />
               <span>0591222901</span>
             </a>
 
@@ -186,9 +186,9 @@ export default function Navbar({
             <div className="pt-4 border-t border-white/10 space-y-3">
               <a
                 href="tel:0591222901"
-                className="flex items-center justify-center space-x-2 w-full py-2.5 bg-red-600/30 text-red-200 border border-red-500/20 text-xs font-bold rounded-xl"
+                className="flex items-center justify-center space-x-2 w-full py-2.5 bg-lime-500/15 text-lime-300 border border-lime-500/20 text-xs font-bold rounded-xl"
               >
-                <Phone className="w-4 h-4 text-red-400 animate-pulse" />
+                <Phone className="w-4 h-4 text-lime-400 animate-pulse" />
                 <span>Call Emergency: 0591222901</span>
               </a>
 
